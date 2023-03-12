@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Este repositorio es del modulo 2 del Prep Course de Henry
+Este es un proyecto de prueba para clonar un archivo de GitHub y editarlo de forma local
